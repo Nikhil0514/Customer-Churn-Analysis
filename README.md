@@ -4,24 +4,24 @@ Designed a dashboard which shows KPIs around demographs, Company Service, custom
 Welcome to the PwC Customer Churn Analysis project. To analyze customer-level data of a leading telecom firm, build predictive models using Power BI to identify Customers at high risk of churn and identify the main indicators of churn.
 The main aim of this project is to define proper KPIs, create a dashboard for the retention manager reflecting the KPIs and write your findings and and include suggestions as to what needs to be changed.
 ## Data Source
-The dataset "Churn-Dataset" was provided by Forage.
+The dataset "Churn-Dataset.xlsx" was provided by Forage.
 # Key Insights
 ## Customer Overview
-> Total subscribed customers: 7,043.
-> Gender distribution: 3,555 males and 3,488 females.
-> Total revenue earned: $16.1M.
-> Majority of customers (84%) are young (5,901).
-> About 31% of customers have a tenure of fewer than 12 months, mostly on month-to-month contracts.
-> Fiber optic internet is popular, but it comes with high charges.
-> 73.5% of customers have been retained (5,174).
+1. Total subscribed customers: 7,043.
+2. Gender distribution: 3,555 males and 3,488 females.
+3. Total revenue earned: $16.1M.
+4. Majority of customers (84%) are young (5,901).
+5. About 31% of customers have a tenure of fewer than 12 months, mostly on month-to-month contracts.
+6. Fiber optic internet is popular, but it comes with high charges.
+7. 73.5% of customers have been retained (5,174).
 ## Churned Customers
-> Churned customers: 1,869 (26.5%).
-> 380 customers churned in the last month.
-> Lost revenue due to churn: $2.9M.
-> Gender doesn't significantly impact churn.
-> 1,037 customers with less than 12 months tenure churned, while only 93 with 61-72 months tenure.
-> 89% of churned customers were on month-to-month contracts.
-> High charges and fiber optic internet users had the highest churn rate (1,274).
+1. Churned customers: 1,869 (26.5%).
+2. 380 customers churned in the last month.
+3. Lost revenue due to churn: $2.9M.
+4. Gender doesn't significantly impact churn.
+5. 1,037 customers with less than 12 months tenure churned, while only 93 with 61-72 months tenure.
+6. 89% of churned customers were on month-to-month contracts.
+7. High charges and fiber optic internet users had the highest churn rate (1,274).
 ## Churning Factors
 1. Young customers are more likely to churn.
 2. Customers with less than 12 months tenure are prone to churn.
@@ -35,4 +35,4 @@ The dataset "Churn-Dataset" was provided by Forage.
 5. Offering basic services like device protection, tech support, online security should be primary goal. This will help the customer stay longer with the brand.
 
 ## Aknowledgements
-> This project was completed as part of a Power BI virtual Case Experience at PwC.
+This project was completed as part of a Power BI virtual Case Experience at PwC.
